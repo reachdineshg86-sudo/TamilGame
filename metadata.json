@@ -1,0 +1,6 @@
+{
+  "name": "Thiruvalluvar Tamil School Quiz with Audio",
+  "description": "Interactive Tamil quiz with authentic voice narration for questions and options with a 15-second timer.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
